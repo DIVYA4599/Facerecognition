@@ -1,3 +1,4 @@
 # Face Recognition
 Face detection and recognition technology not only make life easier and faster but also add atouch of technology fun. Through the face of a series of operations such as unlocking the phone, paying for the face, and intelligently identifying, using high-tech technology to ensurethe security of our property and identity and to realize the combination of technology and life,it is a vital part of our lives.
+
     With the continuous improvement of science and technology, face detection and recognitionare applied in more and more fields, such as the verification of identity by each applicationface scanning, the monitoring system of the bank self-service cash machine, the faceunlocking of the mobile phone, and the new face-brushing technology of Alipay. All need topass the detection and recognition technology for the face.
